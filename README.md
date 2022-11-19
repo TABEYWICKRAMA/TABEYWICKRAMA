@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href=""><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
-(https://github-readme-stats.vercel.app/api?username=TABEYWICKRAMA)](https://github.com/TABEYWICKRAMA)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=TABEYWICKRAMA)](https://github.com/TABEYWICKRAMA)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TABEYWICKRAMA&layout=compact)](https://github.com/TABEYWICKRAMA)
 
