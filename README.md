@@ -29,4 +29,8 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/TABEYWICKRAMA/TABEYWICKRAMA/blob/output/github-contribution-grid-snake.svg)
 
+
+<p align="center"> 
+  Visitor count<br>
 <img src="https://profile-counter.glitch.me/TABEYWICKRAMA/count.svg" />
+</p>
