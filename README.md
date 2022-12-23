@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Yu Shi | Instagram" width="21px"/></a>
 
-[!<a href=""><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>]
+<a href=""><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=TABEYWICKRAMA)](https://github.com/TABEYWICKRAMA)
 
