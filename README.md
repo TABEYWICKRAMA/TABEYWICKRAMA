@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TABEYWICKRAMA&show_icons=true)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TABEYWICKRAMA)](https://github.com/TABEYWICKRAMA/github-readme-stats)
 
 ![Snake animation](https://github.com/TABEYWICKRAMA/TABEYWICKRAMA/blob/output/github-contribution-grid-snake.svg)
 
