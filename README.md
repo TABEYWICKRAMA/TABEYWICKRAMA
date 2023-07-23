@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/jupyter-seeklogo.com.svg" alt="GitHub Logo" width="200px" height="200px">
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/power-bi-microsoft-seeklogo.com.svg" alt="GitHub Logo" width="200px" height="200px">
+  <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/jupyter-seeklogo.com.svg" alt="GitHub Logo" width="200px" height="200px">
+</div>
+
 
 <p align="center"> 
   Visitor count<br>
