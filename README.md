@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 #### Tools and Technologies
 
-<img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/power-bi-microsoft-seeklogo.com.svg" alt="GitHub Logo" width="80" height="50">
+<img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/power-bi-microsoft-seeklogo.com.svg" alt="GitHub Logo" width="50px" height="50px">
 
 
 <p align="center"> 
