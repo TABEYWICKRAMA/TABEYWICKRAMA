@@ -16,18 +16,13 @@ Here are some ideas to get you started:
 -->
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/thisara-harshana-abeywickrama-b851961b4/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/thisara-harshana-abeywickrama-b851961b4/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="50px"/></a>
 
-<a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Yu Shi | Instagram" width="21px"/></a>
-
-<a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://drive.google.com/file/d/1rFgPnRMzq2OkR9zCd_x7wIbqwecEAoXC/view?usp=sharing" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Yu Shi | Instagram" width="50px"/></a>
 
 <a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/12511208945ec2cd343d16a301b9592f6f20754b/upwork-tile.svg" alt="Yu Shi | Instagram" width="50px"/></a>
 
 
-https://drive.google.com/file/d/1rFgPnRMzq2OkR9zCd_x7wIbqwecEAoXC/view?usp=sharing
-
-https://github.com/TABEYWICKRAMA/GitHub_Images/blob/main/2560px-Upwork-logo.svg.png?raw=true
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TABEYWICKRAMA&show_icons=true&theme=radical)
 
