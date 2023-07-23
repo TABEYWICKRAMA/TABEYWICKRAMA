@@ -44,4 +44,13 @@ https://github.com/TABEYWICKRAMA/GitHub_Images/blob/main/2560px-Upwork-logo.svg.
 
 ![GitHub Logo](https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/7cb5f11f2d3d3b41d91dad8b7db8f80704e00fda/upwork.svg)
 
-<a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/7cb5f11f2d3d3b41d91dad8b7db8f80704e00fda/upwork.svg" alt="Yu Shi | Instagram" width="50px"/></a>
+
+
+<a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/12511208945ec2cd343d16a301b9592f6f20754b/upwork-tile.svg" alt="Yu Shi | Instagram" width="50px"/></a>
+
+
+
+
+
+
+
