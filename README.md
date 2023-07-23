@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Yu Shi | Instagram" width="21px"/></a>
 
+<a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://drive.google.com/file/d/1rFgPnRMzq2OkR9zCd_x7wIbqwecEAoXC/view?usp=sharing" alt="Yu Shi | Instagram" width="21px"/></a>
+
 <a href=""><img align="left" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.upwork.com%2Fabout%2Fbrand&psig=AOvVaw2r0bGcirnB7OzWLYtPBbhK&ust=1690179931616000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi7-4SZpIADFQAAAAAdAAAAABAE" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
-https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg
-https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.upwork.com%2Fabout%2Fbrand&psig=AOvVaw2r0bGcirnB7OzWLYtPBbhK&ust=1690179931616000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi7-4SZpIADFQAAAAAdAAAAABAE
+https://drive.google.com/file/d/1rFgPnRMzq2OkR9zCd_x7wIbqwecEAoXC/view?usp=sharing
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TABEYWICKRAMA&show_icons=true&theme=radical)
 
