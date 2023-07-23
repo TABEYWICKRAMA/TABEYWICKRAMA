@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 </br>
 </br>
 </br>
-</br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TABEYWICKRAMA&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </p>
