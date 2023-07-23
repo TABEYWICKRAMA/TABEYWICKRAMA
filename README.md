@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Yu Shi | Instagram" width="50px"/></a>
 
-<a href="https://www.facebook.com/thisaraharshana.abeywickrama.1/"><img align="left" src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/12511208945ec2cd343d16a301b9592f6f20754b/upwork-tile.svg" alt="Yu Shi | Instagram" width="50px"/></a>
+<a href="https://www.upwork.com/"><img align="left" src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/12511208945ec2cd343d16a301b9592f6f20754b/upwork-tile.svg" alt="Yu Shi | Instagram" width="50px"/></a>
 
 
 
