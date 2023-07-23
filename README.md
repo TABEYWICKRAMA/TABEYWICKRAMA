@@ -42,4 +42,4 @@ https://github.com/TABEYWICKRAMA/GitHub_Images/blob/main/2560px-Upwork-logo.svg.
 </p>
 
 
-![GitHub Logo] (![GitHub Logo](https://github.com/yourusername/your-repo/blob/master/images/image_name.png))
+![GitHub Logo] (![GitHub Logo](https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/7cb5f11f2d3d3b41d91dad8b7db8f80704e00fda/upwork.svg))
