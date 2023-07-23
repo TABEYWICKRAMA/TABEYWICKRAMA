@@ -41,7 +41,13 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/jupyter-seeklogo.com.svg" alt="jupyter notebook logo" width="100px" height="100px">
   <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/python-seeklogo.com.svg" alt="python logo" width="100px" height="100px">
   <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/Pycharm.svg" alt="pycharm logo" width="100px" height="100px">
+  <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/96e0dffb490c526afb4611525b436284de0f2c1a/vscode.svg" alt="vscode logo" width="100px" height="100px">
+  <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/96e0dffb490c526afb4611525b436284de0f2c1a/Microsoft_Excel-Logo.wine.svg" alt="excel logo" width="100px" height="100px">
+  <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/96e0dffb490c526afb4611525b436284de0f2c1a/microsoft-sql-server-1.svg" alt="ssms logo" width="100px" height="100px">
+  <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/96e0dffb490c526afb4611525b436284de0f2c1a/neo4j-ar21.svg" alt="neo4j logo" width="100px" height="100px">
+  
 </div>
+
 
 
 <p align="center"> 
