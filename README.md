@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 #### Tools and Technologies
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/power-bi-microsoft-seeklogo.com.svg" alt="powerbi logo" width="200px" height="200px">
+  <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/a948ab87bdc511955e91d383e323b61a9c6b9733/New_Power_BI_Logo.svg" alt="powerbi logo" width="200px" height="200px">
   <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/jupyter-seeklogo.com.svg" alt="jupyter notebook logo" width="200px" height="200px">
   <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/python-seeklogo.com.svg" alt="python logo" width="200px" height="200px">
   <img src="https://raw.githubusercontent.com/TABEYWICKRAMA/GitHub_Images/14603b1e997db45b142eb8764bbe20361e985f54/Pycharm.svg" alt="pycharm logo" width="200px" height="200px">
